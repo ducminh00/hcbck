@@ -21,17 +21,21 @@ organizations:
 bio: An artist based in Hanoi, Vietnam..
 
 interests:
-- Interest 1
-- Interest 2
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
     year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I have always been an illustration lover. 
+I have always been an illustration lover.
 
 I turn my passion for illustration, local cultures into every piece of my artworks.
 
